@@ -5,7 +5,7 @@ from picamera2 import Picamera2
 import time
 
 # Change this to the name of the person you're photographing
-PERSON_NAME = "jaryd"  
+PERSON_NAME = "Ayoola"  
 
 def create_folder(name):
     dataset_folder = "dataset"
