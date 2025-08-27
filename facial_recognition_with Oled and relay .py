@@ -32,7 +32,7 @@ start_time = time.time()
 fps = 0
 
 # List of names that will trigger the GPIO pin
-authorized_names = ["john", "alice", "bob"]  # Replace with names you wish to authorise THIS IS CASE-SENSITIVE
+authorized_names = ["Ayoola", "Adetayo", "Favour"]  # Replace with names you wish to authorise THIS IS CASE-SENSITIVE
 
 def process_frame(frame):
     global face_locations, face_encodings, face_names
